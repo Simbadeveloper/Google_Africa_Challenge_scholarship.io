@@ -1,0 +1,13 @@
+  #HTML SYNTAX
+  
+  The first thing i learnt is about setting up the environment where i could write and deploy my html tags
+  and the others programming languages.
+  
+   #INTRODUCTION
+   
+   I was introduced to html structures
+    i learnt about setting up the environment
+    i learnt about different text editor and how they work with different browsers after writting the codes
+    i learnt the workflow from how you write the html tags in the text editor to displaying them to different browsers
+    
+    this id lesson two.....i just everything
