@@ -19,3 +19,8 @@ After learning html it was time to put it into action
 from the blog-mockup and uneditted code file index i had to change it to look the same as the one in the blog-mockup pdf file
 
 i did it wooow great progress am learning.
+ 
+ #lessons
+ 
+ 1.Have learnt that the colour used are a combination of three colours variation which are red blue and green
+ 2. You can use developer tools while developimg your website
