@@ -6,7 +6,7 @@ My dream was to be a developer, gettting this chance to further ny dream was gre
 
 Am learning i want to join ANDELA so that i can help solve problem using technology.
 
-This is my eight week journey want am learning.
+This is my eight week journey what am learning.
 
 I working on front-end developement.
 
